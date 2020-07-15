@@ -20,17 +20,16 @@
 }
 ```
 
-<!--
-**raihanM95/raihanM95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :trophy: Achievements
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+   <li>
+      <b>Runner-Up: </b> Daffodil ICT Carnival, 2019
+   </li>
+   <li>
+      <b>Champion </b> DIU Intra Department Project Showcasing, 2019
+   </li>
+   <li>
+      <b>Champion (.NET Category): </b> DIU Intra Department Project Fair, 2018
+   </li>
+</ul>
