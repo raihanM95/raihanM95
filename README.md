@@ -9,6 +9,17 @@
 
 :wave: Hi there, I am Raihan Mahmud <br/>Software Engineer from :bangladesh:. Exploring and learning new technology is my passion.
 
+## {...} My Stack
+```yml
+{
+   "languages": ["JavaScript", "C#"],
+   "backend": [".NET Core"],
+   "frontend": ["Angular"],
+   "databases": ["MS-SQL-Server", "MySQL", "MongoDB"],
+   "experimenting": ["Python", "Docker"]
+}
+```
+
 <!--
 **raihanM95/raihanM95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
