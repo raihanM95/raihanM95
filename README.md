@@ -14,8 +14,8 @@
 {
    "languages": ["JavaScript", "C#"],
    "backend": [".NET Core"],
-   "frontend": ["Angular"],
-   "databases": ["MS-SQL-Server", "MySQL", "MongoDB"],
+   "frontend": ["Vue.js"],
+   "databases": ["MS-SQL-Server", "MySQL", "PostgreSQL"],
    "experimenting": ["Python", "Docker"]
 }
 ```
