@@ -6,6 +6,7 @@
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=49b3e3&logo=twitter&logoColor=ffffff&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DraihanM95&suffix=%20Followers)](https://twitter.com/raihanM95)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/raihanm95)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/raihanm95)
+![](https://komarev.com/ghpvc/?username=raihanM95)
 
 :wave: Hi there, I am Raihan Mahmud <br/>Software Engineer from :bangladesh:. Exploring and learning new technology is my passion.
 
